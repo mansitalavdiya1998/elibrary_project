@@ -4,7 +4,7 @@ Laravel project
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/tauseedzaman/Laravel-libraray-management-system
+    git clone https://github.com/mansitalavdiya1998/elibrary_project.git
 ```
 
 change current directory
